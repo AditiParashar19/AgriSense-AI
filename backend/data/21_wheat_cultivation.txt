@@ -1,0 +1,77 @@
+WHEAT CULTIVATION
+
+OVERVIEW
+
+Wheat (Triticum aestivum) is a major Rabi (winter) season cereal crop in India, grown predominantly in the Indo-Gangetic plains including Uttar Pradesh, Punjab, Haryana, Madhya Pradesh, and Rajasthan. India is one of the world's largest wheat producers, and the crop is central to national food security. Wheat requires cool weather during vegetative growth and warmer conditions during grain maturity.
+
+Key crop parameters:
+- Sowing time: Mid-October to end of November (timely sowing window); late sowing extends to December with yield penalty
+- Seed rate: 100-125 kg/ha (timely sown), 125-150 kg/ha (late sown)
+- Row spacing: 20-22.5 cm
+- Optimum soil pH: 6.0 to 7.5
+- Growing season temperature: 10-25°C, with cooler temperatures (below 25°C) favoring grain filling
+- Water requirement: 450-650 mm over the crop cycle, applied through 4-6 irrigations
+- Maturity duration: 120-150 days depending on variety
+
+IMPORTANCE
+
+- Staple food crop providing major caloric and protein intake across northern and central India
+- Second most important cereal crop in India after rice in terms of production volume
+- Supports the rice-wheat cropping system, the backbone of food grain production in the Indo-Gangetic plains
+- Government procurement at Minimum Support Price (MSP) provides income stability for wheat farmers
+- Wheat straw serves as valuable livestock fodder, adding economic value beyond grain production
+
+SCIENTIFIC EXPLANATION
+
+Wheat growth passes through distinct physiological stages, each with specific management requirements: germination, tillering, jointing/stem elongation, booting, heading/flowering, and grain filling/maturity. The crown root initiation stage (18-21 days after sowing) and the tillering stage are critical for establishing yield potential, while the flowering and grain-filling stages are most sensitive to heat and water stress, directly affecting final grain weight and quality.
+
+Vernalization (a period of cold exposure) is required by many wheat varieties to trigger the transition from vegetative to reproductive growth, which is why timely sowing in the appropriate cool window is critical for varieties developed for the Indo-Gangetic plains. Sowing too late reduces the vegetative growth period and exposes the crop to high temperatures during grain filling (terminal heat stress), significantly reducing yield due to forced early maturity and reduced grain weight.
+
+PRACTICAL RECOMMENDATIONS
+
+- Use certified seed of high-yielding varieties suited to the specific agro-climatic zone and sowing window
+- Treat seeds with recommended fungicide and/or biofertilizer (Azotobacter) before sowing
+- Apply fertilizer based on soil test; general recommendation for irrigated wheat is 120-150 kg N, 60 kg P2O5, 40 kg K2O per hectare
+- Apply full phosphorus and potassium plus one-third of nitrogen as basal dose at sowing; apply remaining nitrogen in 2 splits at first irrigation (crown root initiation, 20-25 days after sowing) and second irrigation (tillering to jointing stage)
+- Provide first irrigation at crown root initiation stage (18-21 days after sowing), which is the most critical irrigation for yield
+- Subsequent irrigations at tillering, jointing, flowering, and grain filling stages as needed based on soil moisture and rainfall
+- Control weeds through pre-emergence or early post-emergence herbicide application combined with timely manual weeding if needed
+- Monitor for yellow rust, particularly in northern hills and adjoining plains, and aphids during the vegetative to reproductive transition
+
+COMMON MISTAKES
+
+- Delayed sowing beyond the optimum window, exposing the crop to terminal heat stress during grain filling
+- Skipping or delaying the critical crown root initiation irrigation, significantly reducing tillering and yield potential
+- Applying entire nitrogen dose at sowing instead of splitting, leading to excessive vegetative growth, lodging risk, and reduced nitrogen availability during later critical stages
+- Ignoring seed treatment, increasing vulnerability to seed and soil-borne diseases
+- Using excess seed rate, leading to overcrowding, increased lodging risk, and reduced individual plant vigor
+
+BEST PRACTICES
+
+- Follow zone-specific recommended varieties and sowing windows issued by state agricultural universities and ICAR-Indian Institute of Wheat and Barley Research
+- Practice timely sowing strictly within the recommended window for the region
+- Apply balanced, split fertilizer doses based on soil test recommendations
+- Prioritize the crown root initiation irrigation above all other irrigations if water is limited
+- Monitor fields regularly for early signs of rust and aphid infestation, taking timely control measures
+- Consider zero-tillage or reduced-tillage wheat sowing after rice harvest to save time, cost, and reduce residue burning
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What is the most critical irrigation stage for wheat?
+A: The crown root initiation stage, approximately 18-21 days after sowing, is the single most critical irrigation, as it directly affects root development and tillering, which determine overall yield potential.
+
+Q: How many irrigations does wheat typically need?
+A: Depending on soil type, rainfall, and variety, wheat typically requires 4 to 6 irrigations across the crop cycle in irrigated regions.
+
+Q: What happens if wheat is sown late?
+A: Late-sown wheat faces a shortened vegetative period and is exposed to rising temperatures during flowering and grain filling (terminal heat stress), which reduces grain weight and overall yield. Late sowing may require higher seed rates and specific heat-tolerant varieties to partially compensate.
+
+Q: How can I identify yellow rust in wheat?
+A: Yellow rust appears as yellow-orange powdery pustules arranged in stripes along the leaf veins, typically starting on lower leaves and spreading upward under cool, humid conditions.
+
+Q: What is the ideal seed rate for wheat?
+A: Approximately 100-125 kg/ha for timely sown crops; late-sown wheat may require a slightly higher rate (125-150 kg/ha) to compensate for reduced tillering capacity.
+
+SUMMARY
+
+Wheat is a major Rabi cereal crop in India requiring cool growing conditions, timely sowing, and careful irrigation and nutrient management for optimal yield. Key success factors include sowing within the recommended window, prioritizing the crown root initiation irrigation, applying balanced and split fertilizer doses, and monitoring for diseases like yellow rust. Adherence to zone-specific, university-recommended practices ensures consistent, high-yielding wheat production.

@@ -1,0 +1,80 @@
+GREEN MANURING
+
+OVERVIEW
+
+Green manuring is the practice of growing specific fast-growing plants and incorporating them into the soil while still green (before flowering or at early flowering stage) to improve soil fertility, organic matter content, and structure. It is one of the oldest and most cost-effective methods of nutrient enrichment, particularly for nitrogen supply through leguminous green manure crops.
+
+Common green manure crops used in India:
+- Dhaincha (Sesbania aculeata): Fast-growing, tolerates waterlogging, widely used before rice
+- Sunhemp (Crotalaria juncea): Deep-rooted, good biomass producer, suitable for varied soil conditions
+- Cowpea (Vigna unguiculata): Dual-purpose (fodder and green manure), suitable for shorter windows
+- Cluster bean/Guar (Cyamopsis tetragonoloba): Suitable for drier regions
+- Berseem and other legume fodder crops (used as green manure when not harvested for fodder)
+
+IMPORTANCE
+
+- Adds significant organic matter to soil, improving structure, water-holding capacity, and microbial activity
+- Legume green manure crops fix atmospheric nitrogen (typically 40-80 kg N/ha, sometimes higher under good conditions), reducing chemical nitrogen fertilizer requirement for the following crop
+- Improves soil physical properties, particularly beneficial for degraded or compacted soils
+- Suppresses weed growth during the green manure crop period, reducing weed pressure for the following crop
+- Low-cost input, especially valuable for resource-constrained smallholder farmers
+- Contributes to long-term soil organic carbon buildup when practiced consistently over multiple seasons
+
+SCIENTIFIC EXPLANATION
+
+Green manuring works through two main mechanisms: biological nitrogen fixation and organic matter addition.
+
+Nitrogen fixation: Leguminous green manure crops form symbiotic associations with Rhizobium bacteria in root nodules, converting atmospheric nitrogen into plant-available ammonia. When the green manure crop is incorporated into soil at an early growth stage (before significant nitrogen is diverted to seed production), most of this fixed nitrogen, along with nitrogen absorbed from soil, becomes available to the following crop as the plant material decomposes.
+
+Timing of incorporation is critical: incorporating too early (before adequate biomass and nitrogen fixation has occurred) reduces the total nutrient contribution, while incorporating too late (after flowering, when the plant becomes fibrous and lignified) slows decomposition and can temporarily immobilize soil nitrogen as microorganisms use available nitrogen to break down the high carbon-to-nitrogen ratio material. The optimal window is typically 45-55 days after sowing, at the pre-flowering to early flowering stage, when biomass and nitrogen content are both high while the plant tissue remains succulent and decomposes quickly.
+
+Organic matter contribution: Green manure crops typically produce 15-25 tonnes of green biomass per hectare, which upon incorporation contributes significant organic carbon to soil, supporting microbial activity and gradually improving soil structure over successive seasons.
+
+PRACTICAL RECOMMENDATIONS
+
+- Select a green manure crop suited to local climate, soil type, and the available cropping window (typically 45-60 days) before the main crop
+- Sow green manure crop at a higher seed rate than normal grain crops to maximize biomass production (e.g., dhaincha at 20-25 kg/ha)
+- Ensure adequate soil moisture for good germination and growth of the green manure crop
+- Incorporate the green manure crop into soil at the pre-flowering to early flowering stage (typically 45-55 days after sowing), when biomass and nitrogen content are optimal
+- Incorporate using tillage implements to mix the green material thoroughly into the topsoil (0-15 cm depth)
+- Allow 10-15 days after incorporation before sowing the main crop, to allow initial decomposition and avoid nitrogen immobilization effects on germinating seeds
+- Combine green manuring with other INM practices (reduced chemical fertilizer, biofertilizers) for maximum benefit
+- Consider dual-purpose green manure/fodder legumes if biomass can be partially used for livestock feed before incorporating the regrowth
+
+COMMON MISTAKES
+
+- Incorporating green manure crop too late, after significant flowering and pod formation, resulting in fibrous material that decomposes slowly and can temporarily tie up soil nitrogen
+- Insufficient soil moisture at incorporation, slowing decomposition and delaying nutrient release
+- Sowing the main crop too soon after incorporation, before adequate decomposition has occurred, risking nitrogen immobilization effects on young seedlings
+- Choosing a green manure crop unsuited to local soil and climate conditions, resulting in poor biomass production
+- Treating green manuring as a complete substitute for all fertilizer needs rather than a valuable supplement within an integrated approach
+
+BEST PRACTICES
+
+- Time green manure crop sowing to fit well within the available window before the main crop, allowing full 45-55 day growth period
+- Choose legume green manure species matched to local soil moisture and climate conditions (e.g., dhaincha for waterlogged/rice areas, sunhemp for drier upland conditions)
+- Incorporate at the correct growth stage (pre-flowering to early flowering) for optimal nutrient contribution and decomposition speed
+- Allow adequate decomposition time (10-15 days minimum) before sowing the following crop
+- Combine green manuring with crop rotation planning for compounded soil fertility benefits over multiple seasons
+- Monitor soil organic carbon over successive years to observe the cumulative benefit of consistent green manuring practice
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How much nitrogen does green manuring typically add to soil?
+A: Depending on the green manure species, growth duration, and conditions, green manuring can contribute approximately 40 to 80 kg of nitrogen per hectare, sometimes more under favorable conditions with vigorous legume growth.
+
+Q: When is the best time to incorporate a green manure crop?
+A: The pre-flowering to early flowering stage, typically 45 to 55 days after sowing depending on the species, provides the best balance of biomass, nitrogen content, and ease of decomposition.
+
+Q: Can I use non-leguminous crops for green manuring?
+A: Yes, though non-legume green manure crops do not fix atmospheric nitrogen and primarily contribute organic matter rather than significant nitrogen addition. Legumes are generally preferred when nitrogen contribution is a primary goal.
+
+Q: Does green manuring replace the need for chemical fertilizer completely?
+A: No, green manuring significantly reduces but typically does not completely eliminate the need for chemical fertilizer, especially for phosphorus, potassium, and micronutrients, and for meeting the full nitrogen demand of high-yielding varieties.
+
+Q: Is green manuring suitable for water-scarce regions?
+A: Green manuring requires reasonable soil moisture for good crop establishment and growth. In water-scarce regions, drought-tolerant green manure species or alternative organic matter sources (crop residue incorporation) may be more practical.
+
+SUMMARY
+
+Green manuring is a cost-effective, sustainable practice of growing and incorporating fast-growing crops, particularly legumes, into soil to enhance organic matter and nitrogen content. Proper species selection, timing of incorporation (pre-flowering to early flowering stage), and adequate decomposition time before the main crop are essential for maximizing benefits. Consistent green manuring practice over multiple seasons contributes significantly to long-term soil fertility, structure, and organic carbon buildup.
