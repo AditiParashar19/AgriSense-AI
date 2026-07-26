@@ -1,0 +1,39 @@
+# ===========================================
+# SoilSenseAU - Python Dependencies
+# ===========================================
+
+# --- Backend (FastAPI) ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+pydantic==2.9.2
+fpdf2==2.7.9
+# --- Frontend (Streamlit) ---
+streamlit==1.38.0
+requests==2.32.3
+plotly==5.24.0
+pandas==2.2.2
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+numpy==1.26.4
+joblib==1.4.2
+
+# --- OCR ---
+PyMuPDF==1.24.10
+pytesseract==0.3.13
+Pillow==10.4.0
+
+# --- RAG (LangChain + FAISS + Gemini) ---
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-google-genai==2.0.0
+faiss-cpu==1.8.0.post1
+google-generativeai==0.7.2
+pypdf==4.3.1
+
+# --- Database ---
+# SQLite is built into Python's standard library (sqlite3) - no install needed
+
+# --- Utilities ---
+python-dotenv==1.0.1
