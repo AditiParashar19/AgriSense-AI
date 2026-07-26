@@ -232,36 +232,3 @@ data automatically and safely, even in a multi-user deployment.
 | `GET` | `/api/chatbot/history` | Chat history |
 | `POST` | `/api/chatbot/rebuild-index` | Force a knowledge base rebuild |
 | `GET` | `/api/dashboard/summary` | Aggregate stats for the dashboard |
-
-Full interactive docs available at `/docs` once the backend is running.
-
----
-
-## 📝 Notes
-
-- `backend/yield.py` / `frontend/frontend_pages/yield.py` are named `yield` per the project spec.
-  Since `yield` is a reserved Python keyword, both are imported dynamically via `importlib` in
-  `backend/main.py` / `frontend/app.py` — nothing you need to change.
-- `backend/models/` ships empty (aside from a `.gitkeep`) — bring your own trained models.
-- OCR has been fully removed — Soil Health Analyzer is manual-entry only; the chatbot's knowledge
-  base reads `.pdf`/`.txt` directly.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m "Add your feature"`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-Please keep PRs focused — one feature or fix per PR makes review much faster.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
