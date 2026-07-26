@@ -1,0 +1,92 @@
+SOIL SALINITY
+
+OVERVIEW
+
+Soil salinity refers to the accumulation of soluble salts in the soil to a level that harms plant growth. It is one of the major land degradation problems affecting irrigated agriculture worldwide, including large tracts of India such as parts of Punjab, Haryana, Gujarat, Rajasthan, and coastal regions of West Bengal and Andhra Pradesh. Saline soils are classified based on Electrical Conductivity of the saturation extract (ECe):
+
+- Non-saline: ECe below 2 dS/m
+- Saline: ECe above 4 dS/m, Exchangeable Sodium Percentage (ESP) below 15, pH usually below 8.5
+- Sodic (alkali): ECe below 4 dS/m, ESP above 15, pH often above 8.5
+- Saline-sodic: ECe above 4 dS/m and ESP above 15
+
+IMPORTANCE
+
+- Salinity reduces water availability to plants through osmotic stress, even when soil moisture appears adequate
+- Causes direct ion toxicity (sodium and chloride) that damages plant tissues
+- Degrades soil structure, particularly in sodic soils, reducing water infiltration and aeration
+- Affects an estimated 6.73 million hectares of land in India according to ICAR-CSSRI estimates, making it a significant national concern
+- Left unmanaged, salinity can render fertile land unproductive over time, threatening food security in affected regions
+
+SCIENTIFIC EXPLANATION
+
+Soil salinization occurs through natural and human-induced pathways:
+
+Natural causes:
+- Arid and semi-arid climates with high evaporation exceeding rainfall, concentrating salts in the topsoil
+- Presence of saline parent material or shallow saline groundwater tables
+- Coastal areas affected by seawater intrusion
+
+Human-induced causes:
+- Excessive irrigation without adequate drainage, causing waterlogging and capillary rise of salts to the surface
+- Use of poor-quality (saline or sodic) groundwater for irrigation over long periods
+- Inadequate drainage infrastructure in canal-irrigated command areas
+- Deforestation and land use change altering the natural water table balance
+
+In sodic soils specifically, excess exchangeable sodium disperses clay particles, destroying soil aggregates and collapsing pore spaces. This leads to poor infiltration, surface crusting, and waterlogging, compounding the original salinity problem. Sodic soils are generally more difficult to reclaim than simple saline soils because the structural damage requires both chemical treatment (gypsum) and physical/biological rehabilitation.
+
+PRACTICAL RECOMMENDATIONS
+
+For saline soils:
+- Improve drainage through open or subsurface drains to allow leaching of salts below the root zone
+- Apply excess irrigation water (leaching fraction) to flush salts downward, only where drainage is adequate
+- Select salt-tolerant crops and varieties such as barley, cotton, sugar beet, and salt-tolerant rice varieties (e.g., CSR series developed by ICAR-CSSRI)
+- Use raised bed or furrow planting to keep the crop root zone away from surface salt accumulation
+
+For sodic soils:
+- Apply gypsum at rates based on Gypsum Requirement (GR) determined through soil testing, typically 5 to 15 tonnes per hectare for moderate to severe cases
+- Follow gypsum application with adequate leaching irrigation to remove displaced sodium
+- Add organic matter (FYM, green manure) generously to improve soil structure during reclamation
+- Grow salt-tolerant green manure crops like dhaincha during the reclamation phase
+- Avoid heavy machinery use on wet sodic soils, as it worsens compaction
+
+General management:
+- Mulch soil surface to reduce evaporation and slow salt movement to the surface
+- Avoid irrigation during periods of highest evaporative demand where possible
+- Monitor water table depth and manage irrigation scheduling to prevent waterlogging
+
+COMMON MISTAKES
+
+- Applying lime instead of gypsum to sodic soils, which fails to address the excess sodium problem
+- Leaching without adequate drainage, which raises the water table further and worsens the problem
+- Ignoring irrigation water quality testing before long-term use on farmland
+- Expecting single-season reclamation; severe sodic soils often require multi-year phased reclamation programs
+- Continuing to grow salt-sensitive crops on known saline patches, leading to repeated crop failure
+
+BEST PRACTICES
+
+- Conduct soil and irrigation water testing before developing a reclamation plan
+- Combine gypsum application, leaching, drainage improvement, and organic matter addition for sodic soil reclamation
+- Adopt phased reclamation starting with salt-tolerant crops before transitioning to sensitive crops as soil improves
+- Use ICAR-CSSRI (Central Soil Salinity Research Institute) recommended technologies and salt-tolerant varieties suited to the region
+- Practice conjunctive use of canal and groundwater to dilute salinity when good quality canal water is available
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What is the difference between saline and sodic soil?
+A: Saline soil has high soluble salt content but normal soil structure and pH generally below 8.5. Sodic soil has high exchangeable sodium relative to calcium and magnesium, causing structural degradation and pH often above 8.5, even if total salt content is lower.
+
+Q: Can saline land be made productive again?
+A: Yes, through proper drainage, leaching, and in the case of sodic soils, gypsum application combined with organic matter management. Reclamation timelines vary from one season to several years depending on severity.
+
+Q: Which crops tolerate salinity best?
+A: Barley, cotton, sugar beet, and certain salt-tolerant rice and wheat varieties bred specifically for saline conditions show good tolerance compared to sensitive crops like beans, onion, and citrus.
+
+Q: How can I test if my irrigation water is safe for long-term use?
+A: Get the water tested for EC, Sodium Adsorption Ratio (SAR), and Residual Sodium Carbonate (RSC) at an agricultural laboratory before adopting it as a primary irrigation source.
+
+Q: Does salinity affect all crops equally?
+A: No, crop sensitivity to salinity varies significantly. Some crops show yield decline at very low salinity levels, while others tolerate much higher salt concentrations before being affected.
+
+SUMMARY
+
+Soil salinity and sodicity are significant land degradation issues affecting irrigated agricultural regions, including large areas of India. They arise from both natural conditions and poor irrigation and drainage management. Effective management requires accurate diagnosis (saline versus sodic), appropriate reclamation techniques such as gypsum application and leaching, improved drainage, organic matter addition, and selection of salt-tolerant crop varieties. With proper long-term management, affected land can be gradually restored to productive use.

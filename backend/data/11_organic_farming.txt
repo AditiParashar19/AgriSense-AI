@@ -1,0 +1,82 @@
+ORGANIC FARMING
+
+OVERVIEW
+
+Organic farming is an agricultural production system that avoids synthetic chemical fertilizers, pesticides, and genetically modified organisms, relying instead on natural processes such as crop rotation, organic manures, biological pest control, and mechanical cultivation to maintain soil productivity and manage pests. In India, organic farming is regulated under the National Programme for Organic Production (NPOP) and certified through systems like PGS-India (Participatory Guarantee System) for domestic markets and NPOP certification for export markets.
+
+Key principles of organic farming:
+- Health: Sustaining soil, plant, animal, and human health as one interconnected system
+- Ecology: Working with natural ecological cycles and systems
+- Fairness: Ensuring fair relationships among farmers, workers, and consumers
+- Care: Managing production in a precautionary and responsible manner for present and future generations
+
+IMPORTANCE
+
+- Reduces dependency on costly synthetic inputs, potentially lowering input costs over time
+- Improves soil organic matter, structure, and biological activity through consistent organic input use
+- Reduces chemical residues in food and environmental contamination from pesticide and fertilizer runoff
+- Often commands premium prices in domestic and export markets, improving farmer income
+- Supports biodiversity conservation through reduced chemical pesticide use
+- Aligns with government promotion schemes such as Paramparagat Krishi Vikas Yojana (PKVY) and Mission Organic Value Chain Development for North Eastern Region (MOVCDNER)
+
+SCIENTIFIC EXPLANATION
+
+Organic farming systems rely on biological processes to maintain soil fertility and manage pests, replacing synthetic inputs with natural alternatives:
+
+Nutrient management: Relies on compost, farmyard manure, vermicompost, green manure, and biofertilizers (Rhizobium, Azotobacter, PSB) to supply nutrients through slow mineralization, closely mimicking natural nutrient cycling. This generally results in more gradual nutrient release compared to readily soluble chemical fertilizers.
+
+Pest and disease management: Relies on biological control agents (Trichoderma, Bacillus thuringiensis, Beauveria bassiana), botanical pesticides (neem-based formulations), crop rotation, trap crops, and beneficial insect conservation instead of synthetic pesticides.
+
+Soil health building: Organic systems typically show higher soil organic matter, improved microbial biomass, and better soil structure over time compared to conventional systems, though this improvement typically takes 3 to 5 years to fully manifest after conversion, a period known as the "conversion phase" during which yields may temporarily decline before stabilizing or improving.
+
+Yield considerations: Research indicates organic yields can be comparable to conventional yields for certain crops (especially legumes and under low-input conventional baselines) but may show a yield gap of 10-25% for high-input intensive systems, particularly for cereals, at least in the initial years of transition.
+
+PRACTICAL RECOMMENDATIONS
+
+- Plan a gradual conversion period (typically 2 to 3 years) rather than an abrupt switch, allowing soil biology and farm systems to adjust
+- Build soil fertility through compost, vermicompost, and FYM applied at 5 to 10 tonnes per hectare annually, supplemented with green manuring
+- Use biofertilizers (Rhizobium for legumes, Azotobacter/Azospirillum for cereals, PSB for phosphorus solubilization) to support natural nutrient cycling
+- Practice diverse crop rotation, including legumes, to manage pests naturally and replenish soil nitrogen
+- Adopt botanical pesticides like neem-based sprays and biological control agents for pest management
+- Maintain field borders with trap crops or beneficial insect habitat to support natural pest control
+- Obtain proper certification (PGS-India for local/domestic sale, NPOP for export) to access premium organic markets
+- Maintain detailed input and activity records, as required for organic certification
+
+COMMON MISTAKES
+
+- Switching abruptly from conventional to organic without a planned transition period, leading to temporary yield crashes
+- Underestimating the labor and management intensity required for organic systems, particularly for pest and weed management
+- Relying on only one organic input (e.g., only FYM) without a diversified nutrient management approach
+- Neglecting proper certification, missing out on premium market access despite following organic practices
+- Assuming organic farming requires no management; in fact, it often requires more careful planning and monitoring than conventional farming
+- Using non-approved inputs that violate organic certification standards, risking certification loss
+
+BEST PRACTICES
+
+- Develop a comprehensive organic farm management plan and conversion strategy before starting
+- Diversify nutrient sources: compost, vermicompost, FYM, green manure, and biofertilizers used together
+- Integrate crop rotation and intercropping to manage pests, diseases, and soil fertility simultaneously
+- Join local organic farmer groups or PGS-India clusters for shared knowledge, certification support, and market access
+- Maintain thorough records of all inputs and practices for certification and traceability requirements
+- Focus initially on crops and markets with strong organic premium demand to offset transition-period yield adjustments
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How long does it take to become a certified organic farm in India?
+A: Under NPOP, the conversion period is typically 2 to 3 years before full organic certification is granted, during which the farm is under a transitional/in-conversion status.
+
+Q: Will organic farming reduce my yield permanently?
+A: Yield reduction, if any, is usually most pronounced during the conversion period. Well-managed organic systems can achieve yields comparable to conventional systems for many crops over time, particularly in previously low-input areas.
+
+Q: What is the difference between PGS-India and NPOP certification?
+A: PGS-India is a peer-review, group-based certification suited for local and domestic markets with lower certification costs. NPOP is a third-party certification system required for export markets and provides internationally recognized organic status.
+
+Q: Can I use any pesticide in organic farming as long as it is natural?
+A: No, only inputs approved under organic certification standards are permitted. Even natural substances must be on the approved input list; unapproved inputs, even if "natural," can violate certification requirements.
+
+Q: Is organic farming financially profitable?
+A: Profitability depends on market access, premium pricing, input cost savings, and yield levels. Access to certified organic markets with price premiums significantly improves the financial viability of organic farming.
+
+SUMMARY
+
+Organic farming is a holistic agricultural system that eschews synthetic chemical inputs in favor of biological and natural processes for nutrient and pest management. It requires careful planning, a gradual conversion period, diversified organic inputs, and proper certification to access premium markets. While transition periods may involve yield adjustments, well-managed organic systems can achieve sustainable productivity, improved soil health, and better long-term farm resilience.

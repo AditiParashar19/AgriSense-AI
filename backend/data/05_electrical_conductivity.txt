@@ -1,0 +1,85 @@
+ELECTRICAL CONDUCTIVITY (EC) IN SOIL
+
+OVERVIEW
+
+Electrical Conductivity (EC) measures the concentration of soluble salts in soil, expressed in deciSiemens per meter (dS/m). It is a key indicator used to assess soil salinity, since dissolved salts conduct electricity in proportion to their concentration. EC is typically measured on a soil-water extract, commonly a 1:2 soil-to-water ratio in routine testing.
+
+EC classification for agricultural soils (1:2 soil-water extract, dS/m):
+- Normal (non-saline): below 1.0
+- Slightly saline: 1.0 to 2.0
+- Moderately saline: 2.0 to 4.0
+- Strongly saline: 4.0 to 8.0
+- Very strongly saline: above 8.0
+
+Note: Saturation extract (ECe) values, used in classical soil salinity classification, follow different thresholds (normal below 2, saline above 4 dS/m), so farmers should check which method their soil report uses.
+
+IMPORTANCE
+
+- High EC indicates salt accumulation, which directly stresses plants by disrupting water uptake through osmotic effects
+- EC is a fast, low-cost, and reliable early indicator of soil salinity problems before visible crop damage appears
+- Helps in selecting salt-tolerant crop varieties for affected fields
+- Assists in monitoring the effectiveness of reclamation practices like leaching and gypsum application
+- Prevents wastage of fertilizer inputs, since crops on saline soils cannot efficiently use nutrients due to salt stress
+- Guides irrigation water quality assessment, since irrigation water EC also affects long-term soil salinity buildup
+
+SCIENTIFIC EXPLANATION
+
+Soluble salts in soil consist mainly of sodium, calcium, magnesium, chloride, sulfate, and bicarbonate ions. When present in excess, these salts increase the osmotic pressure of the soil solution, making it harder for plant roots to absorb water even when soil moisture is adequate. This condition is called physiological drought, where plants show wilting symptoms despite sufficient soil water content.
+
+High EC affects crops through:
+- Reduced water uptake due to osmotic stress
+- Specific ion toxicity, particularly from chloride and sodium at high concentrations
+- Nutrient imbalance, as excess sodium interferes with calcium and potassium uptake
+- Poor seed germination, since germinating seeds are especially sensitive to salt stress
+
+Soil salinity develops through natural processes (arid and semi-arid climate with high evaporation and low rainfall, poor natural drainage, saline groundwater) and human-induced processes (excessive irrigation with saline groundwater, poor drainage infrastructure, over-application of certain fertilizers, seawater intrusion in coastal areas).
+
+Crop sensitivity to salinity (EC of saturation extract, ECe, at which yield decline begins) varies widely: sensitive crops like beans and onion are affected around 1.0 dS/m, moderately sensitive crops like wheat and maize around 4.0 to 6.0 dS/m, and tolerant crops like barley and cotton can withstand up to 6.0 to 8.0 dS/m or higher.
+
+PRACTICAL RECOMMENDATIONS
+
+- Test soil EC along with pH during routine soil testing, especially in irrigated arid and semi-arid regions
+- Use leaching irrigation (applying extra water beyond crop requirement) to flush excess salts below the root zone, provided drainage is adequate
+- Install or improve subsurface drainage systems in areas prone to salinity
+- Apply gypsum for sodic soils where sodium is the dominant problematic ion, to replace sodium with calcium and improve leachability
+- Select salt-tolerant crop varieties (e.g., certain barley, cotton, and rice varieties bred for salt tolerance) for moderately saline fields
+- Avoid irrigation with high-EC groundwater where alternatives like canal water are available
+- Apply organic matter to improve soil structure and drainage, indirectly helping salt management
+- Time sowing to avoid periods of peak salt concentration, such as immediately after long dry spells
+
+COMMON MISTAKES
+
+- Ignoring EC testing and only checking pH and NPK, missing early salinity warning signs
+- Over-irrigating with saline groundwater without adequate drainage, worsening salt accumulation over time
+- Applying lime instead of gypsum for sodic soil reclamation, which does not address the sodium problem effectively
+- Planting salt-sensitive crops in known saline patches without variety selection or field-specific management
+- Neglecting drainage infrastructure, allowing salts to accumulate near the soil surface through capillary rise
+
+BEST PRACTICES
+
+- Regularly monitor EC in both soil and irrigation water, particularly in canal command areas with shallow water tables
+- Combine leaching, drainage improvement, and gypsum application for effective sodic and saline soil reclamation
+- Use raised bed planting in saline-prone fields to keep the root zone away from surface salt accumulation
+- Integrate salt-tolerant crop varieties into rotation plans for affected fields
+- Apply mulching to reduce surface evaporation, which slows salt accumulation at the soil surface
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What EC level is safe for most crops?
+A: Generally, EC below 1.0 dS/m (1:2 soil-water extract) is considered safe for most crops. Sensitive crops require even lower levels.
+
+Q: How is soil salinity different from soil sodicity?
+A: Salinity refers to total soluble salt concentration (measured by EC), while sodicity refers specifically to excess sodium relative to calcium and magnesium (measured by Sodium Adsorption Ratio or Exchangeable Sodium Percentage). A soil can be saline, sodic, or both.
+
+Q: Can saline soil be reclaimed?
+A: Yes, through leaching with good quality water combined with adequate drainage. Sodic soils additionally require gypsum application to replace sodium.
+
+Q: Does high EC always mean the soil is unusable?
+A: No. Moderately saline soils can still support salt-tolerant crops with proper management, though sensitive crops will suffer yield loss.
+
+Q: How often should EC be tested?
+A: In salinity-prone areas, testing before each cropping season is advisable. In normal soils, testing along with routine soil analysis every 2 to 3 years is sufficient.
+
+SUMMARY
+
+Electrical conductivity is a critical and easy-to-measure indicator of soil salinity that directly affects crop water uptake, nutrient availability, and yield. Understanding EC helps farmers make informed decisions about crop selection, irrigation management, and reclamation practices such as leaching, drainage, and gypsum application. Regular EC monitoring, especially in irrigated arid and semi-arid regions, is essential to prevent long-term soil degradation from salt accumulation.

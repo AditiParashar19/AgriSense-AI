@@ -1,0 +1,86 @@
+ORGANIC CARBON IN SOIL
+
+OVERVIEW
+
+Soil organic carbon (SOC) is the carbon component of soil organic matter, derived from decomposed plant residues, roots, animal manure, and microbial biomass. It is one of the most important indicators of soil fertility and health. Soil organic matter is generally estimated as approximately 1.72 to 2.0 times the organic carbon content.
+
+Soil organic carbon classification (as per Soil Health Card):
+- Low: below 0.5%
+- Medium: 0.5% to 0.75%
+- High: above 0.75%
+
+Many intensively cultivated Indian soils, particularly in the Indo-Gangetic plains, show organic carbon levels below 0.5%, indicating a widespread need for organic matter management.
+
+IMPORTANCE
+
+- Organic carbon improves soil structure, aggregation, and water infiltration
+- Acts as a reservoir of nutrients, slowly releasing nitrogen, phosphorus, sulfur, and micronutrients as it decomposes
+- Increases water holding capacity; each 1% increase in organic matter can increase water holding capacity significantly, reducing irrigation frequency
+- Feeds soil microorganisms that drive nutrient cycling and disease suppression
+- Buffers soil pH and reduces the negative impact of chemical fertilizer overuse
+- Contributes to climate change mitigation through carbon sequestration in soil
+- Directly correlates with long-term yield stability and resilience to drought stress
+
+SCIENTIFIC EXPLANATION
+
+Organic carbon enters soil through plant residues, root exudates, animal manure, and microbial biomass. Soil microorganisms decompose this organic material through two processes:
+
+1. Mineralization: Breakdown of organic matter releasing plant-available nutrients (nitrogen, phosphorus, sulfur) into the soil solution
+2. Humification: Formation of stable humus, a dark, complex organic material resistant to further decomposition, which persists in soil for years to decades
+
+The balance between these processes determines whether soil organic carbon increases, decreases, or remains stable. Factors affecting this balance include:
+- Climate: Warmer, wetter climates accelerate decomposition, requiring more frequent organic matter addition to maintain SOC levels
+- Tillage: Frequent tillage exposes organic matter to oxygen, accelerating its breakdown and loss as carbon dioxide
+- Cropping intensity: Continuous cropping without residue return depletes organic carbon over time
+- Soil texture: Clay soils generally retain organic carbon better than sandy soils due to physical protection of organic particles within clay aggregates
+
+The Indo-Gangetic plains, under intensive rice-wheat rotation with residue burning and minimal organic input, have shown consistent organic carbon decline over recent decades, directly correlating with yield stagnation despite increased fertilizer use.
+
+PRACTICAL RECOMMENDATIONS
+
+- Incorporate crop residues into soil instead of burning them; this alone can significantly slow organic carbon decline
+- Apply farmyard manure (FYM) at 5 to 10 tonnes per hectare annually
+- Use compost or vermicompost at 2 to 5 tonnes per hectare depending on crop and soil condition
+- Practice green manuring with crops like dhaincha or sunhemp before the main cropping season
+- Adopt reduced or zero tillage practices to slow organic matter oxidation
+- Grow cover crops during fallow periods to add biomass and protect soil from erosion
+- Rotate cereals with legumes to add nitrogen-rich residue that decomposes into stable organic matter
+- Mulch soil surface with crop residue or straw to reduce moisture loss and add organic matter gradually
+
+COMMON MISTAKES
+
+- Burning crop residue after harvest, which destroys organic matter and releases carbon as smoke instead of returning it to soil
+- Relying entirely on chemical fertilizers while neglecting organic matter inputs
+- Excessive and frequent tillage that accelerates organic matter breakdown
+- Removing all crop residue for fodder or other uses without any return to the field
+- Expecting quick results; organic carbon builds up slowly over multiple years and requires sustained practice
+
+BEST PRACTICES
+
+- Combine multiple organic sources: FYM, compost, crop residues, and green manure for cumulative benefit
+- Practice conservation agriculture: minimum tillage, permanent soil cover, and crop diversification
+- Retain at least a portion of crop residue on the field after harvest rather than complete removal
+- Integrate legumes into rotation to add both nitrogen and organic residue
+- Monitor organic carbon levels every 2 to 3 years through soil testing to track progress
+- Use residue management machinery (like Happy Seeder) to incorporate stubble without burning
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How long does it take to improve soil organic carbon?
+A: Noticeable improvement typically takes 3 to 5 years of consistent organic matter addition, as SOC changes are gradual.
+
+Q: Is organic carbon the same as organic matter?
+A: No. Organic matter includes organic carbon plus other elements like hydrogen, oxygen, and nitrogen bound in organic compounds. Organic matter is roughly estimated as organic carbon multiplied by 1.72 to 2.0.
+
+Q: Why is residue burning discouraged?
+A: Burning destroys organic matter, kills beneficial soil microbes, releases greenhouse gases and air pollutants, and depletes nutrients that would otherwise return to soil through decomposition.
+
+Q: Can organic carbon be too high?
+A: Very high organic carbon is uncommon in agricultural mineral soils and is generally beneficial. However, in waterlogged or poorly managed organic soils, excessive undecomposed organic matter can temporarily immobilize nitrogen.
+
+Q: Does compost or FYM work faster to improve organic carbon?
+A: FYM and compost both contribute similarly over time, but compost is more decomposed and releases nutrients slightly faster, while FYM contributes more bulk organic material for structural improvement.
+
+SUMMARY
+
+Soil organic carbon is a key indicator of soil health, influencing structure, water retention, nutrient cycling, and microbial activity. Indian soils commonly show low organic carbon levels due to residue burning and inadequate organic inputs. Farmers can rebuild organic carbon through consistent practices such as residue incorporation, manure application, green manuring, reduced tillage, and crop rotation with legumes, leading to improved soil fertility and long-term productivity.

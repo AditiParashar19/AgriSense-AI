@@ -1,0 +1,93 @@
+SOIL HEALTH
+
+OVERVIEW
+
+Soil health refers to the continued capacity of soil to function as a living system that sustains plants, animals, and humans. Healthy soil supports crop growth, filters water, cycles nutrients, and stores carbon. Soil health is measured through physical, chemical, and biological indicators, not just chemical fertility. A soil can have adequate nutrients on paper yet still perform poorly if its physical structure or biological activity is degraded.
+
+Key indicators of soil health include:
+- Soil organic matter content (target 0.5% to 0.75% minimum, ideally above 1%)
+- Soil structure and aggregate stability
+- Water infiltration rate and water holding capacity
+- Microbial biomass and earthworm population
+- Bulk density (ideal range 1.1 to 1.4 g/cm3 for agricultural soils)
+- Root penetration depth
+- Soil pH (ideal range 6.0 to 7.5 for most crops)
+
+IMPORTANCE
+
+Healthy soil is the foundation of sustainable agriculture. Its importance includes:
+- Higher and more stable crop yields over time
+- Better resistance to drought and waterlogging due to improved structure
+- Reduced dependency on chemical fertilizers through natural nutrient cycling
+- Improved water infiltration, reducing runoff and soil erosion
+- Greater resilience against pests and soil-borne diseases
+- Long-term farm profitability due to lower input costs
+- Carbon sequestration, which helps mitigate climate change
+
+Degraded soil health leads to declining yields even when fertilizer use increases, a phenomenon widely observed in intensively cultivated regions of India, particularly in parts of Punjab and Haryana under continuous rice-wheat cropping systems.
+
+SCIENTIFIC EXPLANATION
+
+Soil health depends on interactions between three components:
+
+1. Physical health: Refers to soil texture, structure, porosity, and bulk density. Good physical health allows roots to penetrate easily, water to infiltrate, and air to circulate. Compacted soils with bulk density above 1.6 g/cm3 restrict root growth significantly.
+
+2. Chemical health: Refers to nutrient availability, pH, cation exchange capacity (CEC), and salinity. Soils with CEC below 10 cmol/kg have poor nutrient-holding capacity and require frequent, smaller fertilizer applications rather than large single doses.
+
+3. Biological health: Refers to the presence and activity of soil organisms including bacteria, fungi (especially mycorrhizae), actinomycetes, earthworms, and other fauna. One gram of healthy agricultural soil can contain over one billion bacterial cells and several kilometers of fungal hyphae. These organisms decompose organic matter, fix nitrogen, solubilize phosphorus, and suppress soil-borne pathogens.
+
+Soil organic matter is the central pillar connecting all three components. It improves aggregate stability (physical), buffers pH and supplies nutrients slowly (chemical), and feeds soil microbial communities (biological).
+
+PRACTICAL RECOMMENDATIONS
+
+- Test soil every 2 to 3 years through a certified soil testing laboratory or Soil Health Card scheme center
+- Maintain soil organic carbon above 0.5%, ideally 0.75% to 1% through regular organic matter addition
+- Apply farmyard manure (FYM) at 5 to 10 tonnes per hectare annually, or compost at similar rates
+- Practice crop rotation with legumes at least once every 2 to 3 seasons
+- Avoid excessive tillage; adopt minimum tillage or zero tillage where feasible
+- Maintain living roots in the soil as long as possible through cover crops or intercropping
+- Avoid leaving soil bare for extended periods; use mulching or residue retention
+- Use biofertilizers such as Rhizobium, Azotobacter, and PSB (phosphate-solubilizing bacteria) to boost biological activity
+- Avoid burning crop residue, as it destroys organic matter and kills beneficial microbes
+- Manage irrigation carefully to avoid waterlogging and salinity buildup
+
+COMMON MISTAKES
+
+- Relying only on chemical fertilizers while ignoring organic matter addition
+- Continuous monocropping without rotation, leading to nutrient mining and pest buildup
+- Excessive and repeated deep tillage that destroys soil structure and accelerates organic matter loss
+- Burning crop stubble instead of incorporating it into soil
+- Over-irrigation leading to waterlogging, compaction, and salinity
+- Ignoring soil test recommendations and applying fertilizers based on guesswork
+- Compacting soil through heavy machinery use on wet fields
+
+BEST PRACTICES
+
+- Follow the 4R nutrient stewardship approach: Right source, Right rate, Right time, Right place
+- Integrate organic and inorganic nutrient sources (Integrated Nutrient Management)
+- Rotate cereals with legumes such as gram, moong, or urad to fix atmospheric nitrogen naturally
+- Retain crop residues on the soil surface as mulch instead of removing or burning them
+- Use green manure crops like dhaincha or sunhemp before major crops
+- Adopt conservation agriculture principles: minimal soil disturbance, permanent soil cover, and crop diversification
+- Monitor earthworm activity as a simple, low-cost bio-indicator of soil health
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How often should I test my soil?
+A: Every 2 to 3 years is generally sufficient, though intensively cropped fields may benefit from annual testing.
+
+Q: What is a good organic carbon level for Indian soils?
+A: Levels above 0.5% are considered medium, and above 0.75% are considered good. Many Indian soils fall below 0.5%, indicating a need for organic matter addition.
+
+Q: Can chemical fertilizers alone maintain soil health?
+A: No. Chemical fertilizers supply nutrients but do not improve soil structure or biological activity. Long-term reliance on chemical fertilizers without organic inputs leads to declining soil health.
+
+Q: How can I improve soil health on a small budget?
+A: Use on-farm resources such as crop residues, animal manure, and green manuring. These require minimal cash investment and significantly improve organic matter over time.
+
+Q: Does tillage always harm soil health?
+A: Excessive and frequent deep tillage harms soil structure and accelerates organic matter loss. Occasional shallow tillage for seedbed preparation is generally acceptable.
+
+SUMMARY
+
+Soil health is a holistic measure of physical, chemical, and biological soil quality that determines long-term agricultural productivity. It goes beyond simple nutrient content and includes organic matter, structure, and microbial activity. Farmers can improve soil health through organic matter addition, crop rotation, reduced tillage, residue retention, and integrated nutrient management. Regular soil testing and adherence to best practices ensure sustainable, resilient, and profitable farming over the long term.

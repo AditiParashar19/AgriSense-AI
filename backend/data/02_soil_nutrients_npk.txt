@@ -1,0 +1,82 @@
+SOIL NUTRIENTS: NITROGEN, PHOSPHORUS, AND POTASSIUM (NPK)
+
+OVERVIEW
+
+Nitrogen (N), Phosphorus (P), and Potassium (K) are the three primary macronutrients required by plants in the largest quantities. They are collectively referred to as NPK and form the basis of most fertilizer recommendations. Each nutrient plays a distinct physiological role, and deficiency or excess of any one affects plant growth, yield, and quality.
+
+Typical available nutrient ranges in agricultural soils (as per Soil Health Card classification):
+- Nitrogen (Available N): Low below 280 kg/ha, Medium 280-560 kg/ha, High above 560 kg/ha
+- Phosphorus (Available P2O5): Low below 10 kg/ha, Medium 10-25 kg/ha, High above 25 kg/ha
+- Potassium (Available K2O): Low below 110 kg/ha, Medium 110-280 kg/ha, High above 280 kg/ha
+
+IMPORTANCE
+
+- Nitrogen drives vegetative growth, chlorophyll formation, and protein synthesis; it is the nutrient most responsible for leaf color and biomass production
+- Phosphorus supports root development, flowering, fruiting, and energy transfer within the plant (via ATP)
+- Potassium regulates water balance, enzyme activation, disease resistance, and improves grain/fruit quality
+- Balanced NPK application increases yield, improves input-use efficiency, and prevents nutrient mining from soil reserves
+- Imbalanced fertilization (commonly excess N with inadequate P and K) is a major cause of stagnating yields in intensive cropping systems
+
+SCIENTIFIC EXPLANATION
+
+Nitrogen exists in soil mainly as organic nitrogen (unavailable) and mineral forms - ammonium (NH4+) and nitrate (NO3-), which are plant-available. Nitrogen is highly mobile and prone to losses through leaching, volatilization (as ammonia), and denitrification, especially in waterlogged or sandy soils. This is why nitrogen fertilizer is typically applied in split doses rather than all at once.
+
+Phosphorus in soil exists mostly in fixed, unavailable forms bound to calcium (in alkaline soils) or iron and aluminum (in acidic soils). Only a small fraction, typically 10-30%, of applied phosphorus fertilizer is used by the crop in the season of application; the rest becomes fixed in soil and is released slowly over subsequent seasons. Phosphorus is relatively immobile in soil, so it must be placed near the root zone (band placement) for efficient uptake.
+
+Potassium exists in three soil pools: readily available (solution and exchangeable), slowly available (fixed in clay minerals), and unavailable (structural, in mineral lattices). Unlike nitrogen, potassium is not part of any organic compound in plants but works as an ion regulating osmotic pressure, stomatal function, and enzyme activity.
+
+PRACTICAL RECOMMENDATIONS
+
+- Base fertilizer doses on soil test results rather than blanket recommendations
+- Apply nitrogen in 2 to 3 split doses: basal application plus top dressing at critical growth stages (tillering and panicle initiation in cereals)
+- Apply phosphorus fully as basal dose at sowing/transplanting since it is immobile in soil
+- Apply potassium as basal dose in sandy soils; split application may help in soils with low CEC
+- Use urea (46% N), DAP (18% N, 46% P2O5), SSP (16% P2O5), and MOP (60% K2O) based on soil test recommendations
+- Combine chemical fertilizers with organic manures to improve nutrient use efficiency and reduce losses
+- Avoid applying nitrogen fertilizer right before heavy rainfall or flooding to reduce leaching losses
+- Use urea deep placement or neem-coated urea to reduce nitrogen volatilization losses
+
+General crop NPK requirement guide (kg/ha, indicative, varies by variety and region):
+
+Crop | Nitrogen (N) | Phosphorus (P2O5) | Potassium (K2O)
+Wheat | 100-150 | 50-60 | 40-50
+Rice | 100-120 | 50-60 | 40-50
+Maize | 120-150 | 60-75 | 40-50
+Cotton | 100-150 | 50-60 | 50-60
+Sugarcane | 250-300 | 80-100 | 100-120
+
+COMMON MISTAKES
+
+- Applying nitrogen fertilizer alone without phosphorus and potassium, leading to imbalanced growth and lodging
+- Broadcasting phosphorus fertilizer on the soil surface instead of placing it near roots, causing fixation losses
+- Applying entire nitrogen dose at sowing, resulting in heavy losses through leaching and volatilization
+- Ignoring soil test results and following the same fertilizer dose year after year
+- Overuse of urea due to subsidy-driven low price, causing nutrient imbalance and environmental pollution
+- Neglecting potassium application, assuming Indian soils are naturally rich in potassium, which is not always true, especially under intensive cropping
+
+BEST PRACTICES
+
+- Follow soil test-based fertilizer recommendations specific to crop and region
+- Practice split nitrogen application aligned with crop growth stages
+- Use band placement for phosphorus fertilizer close to the root zone
+- Combine inorganic fertilizers with organic sources like FYM and compost for balanced, sustained nutrition
+- Adopt the Site-Specific Nutrient Management (SSNM) approach using tools like Leaf Color Chart (LCC) for nitrogen management in rice
+- Rotate with legume crops to supplement natural nitrogen fixation and reduce dependency on nitrogen fertilizer
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: Why does nitrogen need to be applied in splits while phosphorus is applied fully at basal?
+A: Nitrogen is mobile and prone to losses through leaching and volatilization, so splitting reduces losses and matches crop demand. Phosphorus is immobile in soil, so a single basal application placed near roots is efficient.
+
+Q: My soil test shows high potassium. Should I still apply potash fertilizer?
+A: If soil test shows high potassium, a reduced dose or no additional potash may be needed for the season, but this should be reassessed each cropping cycle since potassium is continuously removed by high-yielding crops.
+
+Q: What is the ideal N:P:K ratio for most crops?
+A: There is no single ideal ratio; it depends on crop type, growth stage, and soil test values. Cereals generally require a higher proportion of nitrogen, while fruiting and root crops need more phosphorus and potassium relative to nitrogen.
+
+Q: Can excess nitrogen harm crops?
+A: Yes, excess nitrogen causes excessive vegetative growth, delayed maturity, lodging (crop falling over), increased pest and disease susceptibility, and reduced grain quality.
+
+SUMMARY
+
+Nitrogen, phosphorus, and potassium are essential macronutrients that govern plant growth, yield, and quality. Nitrogen supports vegetative growth, phosphorus supports root and reproductive development, and potassium regulates plant water and disease resistance. Balanced, soil test-based application using proper timing and placement methods maximizes nutrient use efficiency and crop productivity while minimizing environmental losses and input costs.

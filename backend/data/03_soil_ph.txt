@@ -1,0 +1,99 @@
+SOIL pH
+
+OVERVIEW
+
+Soil pH is a measure of the acidity or alkalinity of soil, expressed on a scale of 0 to 14, where 7 is neutral. Values below 7 indicate acidic soil, and values above 7 indicate alkaline soil. Soil pH strongly influences nutrient availability, microbial activity, and crop suitability, making it one of the most important soil parameters for farmers to monitor.
+
+Soil pH classification:
+- Strongly acidic: below 5.5
+- Moderately acidic: 5.5 to 6.5
+- Neutral: 6.5 to 7.5
+- Moderately alkaline: 7.5 to 8.5
+- Strongly alkaline: above 8.5
+
+Most crops perform best in the slightly acidic to neutral range of 6.0 to 7.5.
+
+IMPORTANCE
+
+- Soil pH directly controls the availability of essential nutrients; even if nutrients are present in soil, extreme pH can make them chemically unavailable to plants
+- Affects microbial and earthworm activity, which drives organic matter decomposition and nutrient cycling
+- Determines crop suitability; certain crops tolerate acidic or alkaline conditions better than others
+- Extreme pH can cause toxicity from elements like aluminum (in acidic soils) or sodium (in alkaline soils)
+- Correcting pH is often more cost-effective than repeatedly adding fertilizers to compensate for poor nutrient availability
+
+SCIENTIFIC EXPLANATION
+
+Soil pH affects nutrient solubility through chemical reactions in the soil solution:
+
+In acidic soils (pH below 5.5):
+- Phosphorus gets fixed by iron and aluminum, becoming unavailable
+- Aluminum and manganese can reach toxic levels, damaging roots
+- Molybdenum availability decreases
+- Calcium and magnesium are often deficient due to leaching
+
+In alkaline soils (pH above 8.0):
+- Phosphorus gets fixed by calcium, becoming unavailable
+- Micronutrients such as iron, zinc, manganese, and copper become less available, causing deficiency symptoms like chlorosis
+- Sodium can accumulate, leading to soil structure degradation
+
+The optimal pH range of 6.0 to 7.5 maximizes availability of most macro and micronutrients simultaneously. Nitrogen, potassium, and sulfur are relatively less sensitive to pH compared to phosphorus and micronutrients.
+
+Soil pH changes due to natural processes (rainfall leaching bases in high-rainfall regions causes acidity; low rainfall and high evaporation in arid regions causes alkalinity) and human activities (continuous use of acid-forming fertilizers like ammonium sulfate versus alkaline irrigation water).
+
+PRACTICAL RECOMMENDATIONS
+
+For acidic soils (pH below 5.5):
+- Apply agricultural lime (calcium carbonate) at rates determined by soil test, typically 2 to 5 tonnes per hectare depending on severity
+- Use dolomitic lime if magnesium is also deficient
+- Avoid acid-forming fertilizers like ammonium sulfate; prefer calcium ammonium nitrate where possible
+- Grow acid-tolerant crops such as tea, potato, and certain millets if liming is not immediately feasible
+
+For alkaline soils (pH above 8.5):
+- Apply gypsum (calcium sulfate) to reclaim sodic soils, at rates based on soil test (Gypsum Requirement)
+- Add organic matter generously to buffer pH and improve structure
+- Use acid-forming fertilizers like ammonium sulfate to gradually lower pH
+- Apply elemental sulfur in some cases for slow, long-term pH reduction
+- Ensure proper drainage to prevent salt and sodium accumulation
+
+General recommendations:
+- Test soil pH before planning any pH correction, as over-application of lime or gypsum can cause new nutrient imbalances
+- Reapply organic matter regularly, as it buffers pH fluctuations naturally
+- Select crop varieties suited to the existing soil pH where correction is not economically feasible
+
+COMMON MISTAKES
+
+- Applying lime without a soil test, leading to over-liming and induced micronutrient deficiencies (especially zinc and manganese)
+- Ignoring soil pH entirely and only focusing on NPK fertilizer application
+- Using gypsum on acidic soils, which does not correct acidity (only lime raises pH effectively)
+- Assuming pH correction is a one-time task; pH can drift back over years due to fertilizer and irrigation water effects
+- Not accounting for irrigation water quality, which can gradually shift soil pH over time
+
+BEST PRACTICES
+
+- Test soil pH along with a full nutrient analysis every 2 to 3 years
+- Choose lime or gypsum application based on accurate diagnosis (acidic soils need lime; sodic/alkaline soils need gypsum)
+- Incorporate lime or gypsum into soil at least 2 to 4 weeks before sowing for full reaction
+- Maintain organic matter levels to naturally buffer pH swings
+- Match crop selection to soil pH where amendment is not practical
+- Monitor irrigation water pH and quality, especially in areas using groundwater with high salt content
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What is the ideal soil pH for most crops?
+A: A range of 6.0 to 7.5 is ideal for most agricultural crops, as it maximizes nutrient availability.
+
+Q: How do I know if my soil is acidic or alkaline?
+A: A soil test at a certified laboratory or using a calibrated pH meter/kit is the most reliable method. Visual signs like poor crop growth despite fertilization can also indicate pH problems.
+
+Q: Can I use both lime and gypsum together?
+A: They serve different purposes. Lime raises pH (for acidic soils) while gypsum improves sodic soils without significantly changing pH. They are generally not combined unless a specific dual problem exists, and should be based on soil test recommendations.
+
+Q: How long does it take for lime application to show results?
+A: Lime reactions typically take a few weeks to a few months, depending on lime particle size, soil moisture, and mixing depth. Effects on crop growth are usually visible within one to two cropping seasons.
+
+Q: Does organic matter affect soil pH?
+A: Yes, organic matter acts as a natural buffer, moderating extreme pH changes and improving nutrient availability even when pH is not perfectly optimal.
+
+SUMMARY
+
+Soil pH is a critical factor controlling nutrient availability, microbial activity, and crop performance. Acidic soils benefit from lime application, while alkaline and sodic soils benefit from gypsum and organic matter addition. Regular soil testing, appropriate amendment selection, and crop-pH matching help farmers maintain productive soils and maximize fertilizer efficiency.
