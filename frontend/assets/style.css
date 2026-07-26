@@ -1,0 +1,220 @@
+/* =====================================================
+   SoilSenseAU - Custom Theme
+   Modern, professional, minimal - Green & White
+   ===================================================== */
+
+:root {
+    --sa-primary: #2e7d32;
+    --sa-primary-dark: #1b5e20;
+    --sa-primary-light: #66bb6a;
+    --sa-accent: #a5d6a7;
+    --sa-bg: #f4faf5;
+    --sa-white: #ffffff;
+    --sa-text: #1b2b1e;
+    --sa-muted: #5c6b5f;
+    --sa-shadow: rgba(46, 125, 50, 0.12);
+    --sa-radius: 16px;
+}
+
+/* ---------- Global app background ---------- */
+.stApp {
+    background: linear-gradient(180deg, var(--sa-bg) 0%, #ffffff 65%);
+}
+
+/* Hide default Streamlit chrome for a cleaner look */
+#MainMenu, footer {visibility: hidden;}
+
+/* ---------- Typography ---------- */
+h1, h2, h3 {
+    color: var(--sa-primary-dark) !important;
+    font-weight: 700 !important;
+}
+
+/* ---------- Top hero banner ---------- */
+.sa-hero {
+    background: linear-gradient(120deg, var(--sa-primary) 0%, var(--sa-primary-light) 100%);
+    padding: 2rem 2.2rem;
+    border-radius: var(--sa-radius);
+    color: white;
+    margin-bottom: 1.6rem;
+    box-shadow: 0 10px 30px var(--sa-shadow);
+    transition: transform 0.25s ease;
+}
+.sa-hero:hover {
+    transform: translateY(-2px);
+}
+.sa-hero h1 {
+    color: white !important;
+    margin: 0 0 0.35rem 0;
+    font-size: 2rem;
+}
+.sa-hero p {
+    color: #eafaea;
+    margin: 0;
+    font-size: 1.02rem;
+}
+
+/* ---------- Card container ---------- */
+.sa-card {
+    background: var(--sa-white);
+    border-radius: var(--sa-radius);
+    padding: 1.4rem 1.5rem;
+    box-shadow: 0 4px 18px var(--sa-shadow);
+    border: 1px solid #eaf3ea;
+    margin-bottom: 1.1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.sa-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(46, 125, 50, 0.18);
+}
+
+/* ---------- Metric cards ---------- */
+.sa-metric {
+    background: var(--sa-white);
+    border-radius: var(--sa-radius);
+    padding: 1.2rem;
+    text-align: center;
+    border: 1px solid #eaf3ea;
+    box-shadow: 0 4px 14px var(--sa-shadow);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.sa-metric:hover {
+    transform: translateY(-5px) scale(1.02);
+    border-color: var(--sa-primary-light);
+    box-shadow: 0 14px 26px rgba(46, 125, 50, 0.2);
+}
+.sa-metric .sa-metric-icon {
+    font-size: 1.8rem;
+    margin-bottom: 0.3rem;
+}
+.sa-metric .sa-metric-value {
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: var(--sa-primary-dark);
+    line-height: 1.1;
+}
+.sa-metric .sa-metric-label {
+    font-size: 0.85rem;
+    color: var(--sa-muted);
+    margin-top: 0.2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+/* ---------- Badges / pills ---------- */
+.sa-badge {
+    display: inline-block;
+    padding: 0.28rem 0.75rem;
+    border-radius: 999px;
+    background: var(--sa-accent);
+    color: var(--sa-primary-dark);
+    font-weight: 600;
+    font-size: 0.82rem;
+}
+
+/* ---------- Result banner (prediction outcome) ---------- */
+.sa-result {
+    background: linear-gradient(120deg, #e8f5e9, #ffffff);
+    border-left: 6px solid var(--sa-primary);
+    border-radius: 12px;
+    padding: 1.1rem 1.3rem;
+    margin-top: 1rem;
+    animation: sa-fade-in 0.5s ease;
+}
+.sa-result h3 {
+    margin: 0 0 0.3rem 0 !important;
+}
+
+@keyframes sa-fade-in {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* ---------- Buttons ---------- */
+.stButton > button {
+    background: linear-gradient(120deg, var(--sa-primary) 0%, var(--sa-primary-light) 100%);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 0.55rem 1.4rem;
+    font-weight: 600;
+    box-shadow: 0 4px 12px var(--sa-shadow);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(46, 125, 50, 0.28);
+    filter: brightness(1.05);
+}
+.stButton > button:active {
+    transform: translateY(0px) scale(0.98);
+}
+
+/* ---------- Sidebar ---------- */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, var(--sa-primary-dark) 0%, var(--sa-primary) 100%);
+}
+[data-testid="stSidebar"] * {
+    color: #f2fbf2 !important;
+}
+[data-testid="stSidebar"] .stRadio label:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+}
+
+/* ---------- File uploader ---------- */
+[data-testid="stFileUploaderDropzone"] {
+    border-radius: 14px !important;
+    border: 2px dashed var(--sa-primary-light) !important;
+    background: #f6fdf6 !important;
+    transition: border-color 0.2s ease, background 0.2s ease;
+}
+[data-testid="stFileUploaderDropzone"]:hover {
+    border-color: var(--sa-primary) !important;
+    background: #eefaee !important;
+}
+
+/* ---------- Progress bars ---------- */
+.stProgress > div > div {
+    background-image: linear-gradient(120deg, var(--sa-primary), var(--sa-primary-light));
+}
+
+/* ---------- Chat bubbles ---------- */
+.sa-chat-user {
+    background: var(--sa-primary);
+    color: white;
+    padding: 0.7rem 1rem;
+    border-radius: 14px 14px 2px 14px;
+    margin: 0.4rem 0;
+    max-width: 80%;
+    margin-left: auto;
+    box-shadow: 0 4px 10px var(--sa-shadow);
+}
+.sa-chat-bot {
+    background: var(--sa-white);
+    color: var(--sa-text);
+    padding: 0.7rem 1rem;
+    border-radius: 14px 14px 14px 2px;
+    margin: 0.4rem 0;
+    max-width: 80%;
+    border: 1px solid #eaf3ea;
+    box-shadow: 0 4px 10px var(--sa-shadow);
+}
+
+/* ---------- Tables / dataframes ---------- */
+[data-testid="stDataFrame"] {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 14px var(--sa-shadow);
+}
+
+/* ---------- Tabs ---------- */
+.stTabs [data-baseweb="tab"] {
+    border-radius: 10px 10px 0 0;
+    font-weight: 600;
+    color: var(--sa-primary-dark);
+}
+.stTabs [aria-selected="true"] {
+    background-color: var(--sa-accent) !important;
+}
