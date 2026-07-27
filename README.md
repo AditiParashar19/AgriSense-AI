@@ -62,18 +62,6 @@ trustworthy AI-powered guidance — without hallucinated advice.
 
 ---
 
-## 📸 Screenshots
-
-| Crop Recommendation | Soil Health Analyzer |
-|---|---|
-| *add screenshot* | *add screenshot* |
-
-| AI Chatbot | Dashboard |
-|---|---|
-| *add screenshot* | *add screenshot* |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -83,19 +71,19 @@ AgriSenseAI/
 │   ├── main.py              # FastAPI app entry point
 │   ├── crop.py               # Crop recommendation router
 │   ├── yield.py               # Yield prediction router
-│   ├── soil_report.py         # Soil Health Analyzer router (manual entry, no OCR)
+│   ├── soil_report.py         # Soil Health Analyer
 │   ├── chatbot.py              # RAG chatbot router
-│   ├── rag.py                   # FAISS vector store + retrieval + auto-rebuild logic
+│   ├── rag.py                   # FAISS vector store + retrieval 
 │   ├── database.py               # SQLite schema + CRUD helpers
 │   ├── session_store.py           # Per-session (in-memory) soil context for the chatbot
 │   ├── pdf_report.py               # Soil Health Analyzer PDF report generation
 │   ├── web_search.py                # Optional Google Search fallback for the chatbot
-│   ├── models/                       # <-- Place your trained .pkl files here (empty by default)
-│   └── data/                          # Agriculture .pdf/.txt files for the chatbot's knowledge base
-│       └── faiss_index/                # Auto-generated vector index cache (safe to delete)
+│   ├── models/                       
+│   └── data/                          
+│       └── faiss_index/                
 │
 ├── frontend/
-│   ├── app.py                  # Streamlit entry point (routing + CSS + shared session_id)
+│   ├── app.py                  # Streamlit entry point 
 │   ├── components/
 │   │   └── sidebar.py            # Sidebar navigation
 │   ├── frontend_pages/
@@ -103,18 +91,18 @@ AgriSenseAI/
 │   │   ├── crop.py
 │   │   ├── yield.py
 │   │   ├── soil_report.py          # Manual Soil Health Analyzer UI
-│   │   ├── chatbot.py                # Chatbot UI (shares session_id with the analyzer)
+│   │   ├── chatbot.py                # Chatbot UI 
 │   │   └── dashboard.py
 │   ├── services/                      # API client wrappers
 │   │   ├── crop_api.py
 │   │   ├── yield_api.py
 │   │   ├── chatbot_api.py
-│   │   └── soil_report_api.py          # analyze_soil() + download_soil_report_pdf()
+│   │   └── soil_report_api.py       
 │   └── assets/
-│       └── style.css                    # Custom green & white interactive theme
+│       └── style.css                  
 │
-├── dataset/                    # Raw training datasets (optional)
-├── notebooks/                  # Model training notebooks (optional)
+├── dataset/                    
+├── notebooks/                  
 ├── requirements.txt
 ├── .env.example
 └── README.md
@@ -136,42 +124,14 @@ pip install -r requirements.txt
 
 ### 2. Add your trained ML models
 
-This repo does **not** ship with pre-trained `.pkl` files (keep them out of version control —
-see `.gitignore`). Place your own trained models into `backend/models/`:
 
 ```
-backend/models/random_forest.pkl              # Crop Recommendation classifier
+backend/models/random_forest.pkl              # Crop Recommendation classifier greater than 25MB so not uploaded
 backend/models/label_encoder.pkl              # Crop label encoder
 backend/models/random_forest_regressor.pkl    # Yield Prediction regressor
 backend/models/area_encoder.pkl               # Yield "Area" label encoder
 backend/models/item_encoder.pkl               # Yield "Item" (crop) label encoder
 ```
-
-### 3. Add your Gemini API key
-
-Copy `.env.example` to `.env` in the project root and set your key:
-
-```
-GOOGLE_API_KEY=your_google_generative_ai_api_key_here
-BACKEND_URL=http://localhost:8000
-```
-
-> Embeddings run **locally** via HuggingFace — `GOOGLE_API_KEY` is only used for the chatbot's
-> Gemini 2.5 Flash generation step.
-
-### 4. Add agriculture knowledge base files for the chatbot
-
-Drop `.pdf` or `.txt` reference files into `backend/data/`. The FAISS index rebuilds
-**automatically** whenever files are added, removed, or edited (fingerprint-based change
-detection) — no manual cache-clearing. Force an immediate rebuild anytime with:
-
-```bash
-curl -X POST http://localhost:8000/api/chatbot/rebuild-index
-```
-
-> `.pdf` files must contain real, selectable text — scanned/image-only PDFs won't extract, since
-> OCR is intentionally not part of this project.
-
 ---
 
 ## ▶️ Running the App
