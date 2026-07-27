@@ -10,7 +10,6 @@ Crop Recommendation · Yield Prediction · Soil Health Analyzer · Grounded AI C
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/RAG-LangChain%20%2B%20FAISS-1C3C3C)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
@@ -28,9 +27,6 @@ Crop Recommendation · Yield Prediction · Soil Health Analyzer · Grounded AI C
 - [Database](#️-database)
 - [Session Isolation](#-session-isolation)
 - [API Endpoints](#-api-endpoints)
-- [Notes](#-notes)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
